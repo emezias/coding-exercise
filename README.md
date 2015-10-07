@@ -7,6 +7,15 @@ If you have existing code that you can share with us and are proud of, these exe
 If you are doing an exercise, you can pick any of the ones below.
 
 ### Client (Front-end)
+#### Create an Android app with the Hotwire API
+Please do not hesitate to share any portfolio apps that make you proud along with an app that meets the challenge.
+
+The requirements are the same as Search, listed below. The programming language should be java with standard Android xml layouts. Send us an apk that runs on Android 4 and 5 along with a link to your repository. You can use any libraries and tools you like. Volley and Glide libraries are not required but recommended. 
+Send us an apk file we can install on Android 4 or 5 and a link to your code repo.
+
+#### Create an iOS app with the Hotwire API
+The requirements are the same as Search, done with Swift, Objective-C or any combination of those. You can use any libraries and tools you like. We will be looking for a user experience consistent with Apple's guidelines. Make it fast with a fast network!  
+Send us a link to the repo and an IPA file to test out your code.
 
 #### Search
 
